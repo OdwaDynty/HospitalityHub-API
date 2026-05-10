@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+
+# Sensitive config
+appsettings.Development.json
+
+# Database files
+*.db
+*.mdf
+*.ldf
